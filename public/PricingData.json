@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": "$20/month",
+      "description": "Ideal for beginners who want access to essential gym facilities without additional perks.",
+      "features": [
+        "Access to gym facilities",
+        "Locker room access",
+        "Unlimited cardio equipment usage"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": "$40/month",
+      "description": "Perfect for individuals looking for a mix of gym access and fitness classes.",
+      "features": [
+        "Includes all Basic Plan features",
+        "Access to group fitness classes",
+        "1 personal training session per month"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": "$60/month",
+      "description": "Designed for fitness enthusiasts seeking a comprehensive gym experience with added luxury.",
+      "features": [
+        "Includes all Standard Plan features",
+        "Unlimited personal training sessions",
+        "Access to sauna and spa facilities",
+        "Priority support and booking"
+      ]
+    }
+    
+  ]
